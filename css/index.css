@@ -108,6 +108,10 @@ article{
 
 .cont-about{
     grid-area: d;
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 600;
 }
 
 .leaves{
@@ -115,6 +119,7 @@ article{
     height: 70%;
     margin-top: 2rem;
 }
+
 
 
 

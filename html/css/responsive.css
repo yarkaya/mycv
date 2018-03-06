@@ -1,0 +1,38 @@
+@media (min-width: 992px){
+.container {
+    width: 100% !important;
+}
+}
+
+@media (min-width: 768px){
+.container {
+    width: 100% !important;
+}
+}
+
+@media (min-width: 768px){
+.menu-icon-animated{
+    font-size: 6rem;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+}
+
+@media (min-width: 768px){
+    header{
+        background-image: url(../img/header-res.jpg);
+    }
+    
+    nav{
+    width: 23%;
+    }
+
+    .slogan{
+        font-size: 2.2rem;
+        word-spacing: 3px;
+        width: 77%;
+    }
+
+}
